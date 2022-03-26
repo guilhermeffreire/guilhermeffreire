@@ -1,7 +1,7 @@
 Olá Devs 👋 eu sou o Guilherme.
 
 <div style="display: inline_block"  >
- <p> - 👨‍💻 Desenvolvedor JR na TOTVS IP. </p>
+ <p> - 👨‍💻 Analista Desenvolvedor JR na TOTVS IP. </p>
  <p> - 👨‍🎓 Formado em ADS(Analise e Desenvolvimento de Sistemas). </p> 
 </div>
 
