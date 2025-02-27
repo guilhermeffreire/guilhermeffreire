@@ -1,7 +1,7 @@
 Olá Devs 👋
 
 <div style="display: inline_block"  >
- <p> - 👨‍💻 Desenvolvedor Backend na LionX. </p>
+ <p> - 👨‍💻 Desenvolvedor Backend </p>
  <p> - 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas. </p> 
 </div>
 
